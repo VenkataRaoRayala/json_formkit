@@ -1,5 +1,6 @@
 name: json_formkit
 description: A JSON-driven form builder package in Flutter.
+homepage: https://github.com/VenkataRaoRayala/json_formkit
 version: 0.1.0
 environment:
   sdk: '>=3.1.0 <4.0.0'
