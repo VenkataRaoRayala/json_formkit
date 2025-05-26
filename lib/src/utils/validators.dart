@@ -5,7 +5,8 @@ class Validators {
     }
     return null;
   }
-static String? validateEmail(String? value) {
+
+  static String? validateEmail(String? value) {
     if (value == null || value.isEmpty) return null;
     final emailRegex = RegExp(r'^[^@]+@[^@]+\.[^@]+$');
     if (!emailRegex.hasMatch(value)) {

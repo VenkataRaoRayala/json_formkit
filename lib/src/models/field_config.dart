@@ -5,6 +5,8 @@ class FieldConfig {
   final bool required;
   final Map<String, dynamic>? validators;
   final List<dynamic>? options; // for dropdown, checkbox etc.
+  final String? Function(String?)? customValidator;
+
 
   FieldConfig({
     required this.key,
@@ -13,6 +15,7 @@ class FieldConfig {
     this.required = false,
     this.validators,
     this.options,
+    this.customValidator
   });
 
   factory FieldConfig.fromJson(Map<String, dynamic> json) {
