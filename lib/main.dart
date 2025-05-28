@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = FormTheme.light();
-
     return MaterialApp(
       title: 'json_formkit Example',
       theme: ThemeData(
