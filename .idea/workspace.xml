@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d640b406-9352-47dd-8287-c7ae778ee45b" name="Changes" comment="adding LICENSE" />
+    <list default="true" id="d640b406-9352-47dd-8287-c7ae778ee45b" name="Changes" comment="finally published" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -173,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748530870049</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="finally published">
+      <option name="closed" value="true" />
+      <created>1748532559616</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748532559616</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +202,7 @@
     <MESSAGE value="deleted unused files" />
     <MESSAGE value="publishing changes" />
     <MESSAGE value="adding LICENSE" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding LICENSE" />
+    <MESSAGE value="finally published" />
+    <option name="LAST_COMMIT_MESSAGE" value="finally published" />
   </component>
 </project>
